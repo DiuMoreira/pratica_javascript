@@ -18,7 +18,7 @@ let idadeFutura = idade + 10;
 console.log("Daqui a 10 anos, " + nome + " terá " + idadeFutura + " anos.");
 
 
-//Pratica 3
+// Pratica 3
 let raio = 5;
 let valor_pi = 3.14;
 
